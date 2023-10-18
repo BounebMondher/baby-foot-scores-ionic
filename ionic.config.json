@@ -1,0 +1,7 @@
+{
+  "name": "baby-foot",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
